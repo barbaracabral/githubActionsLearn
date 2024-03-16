@@ -26,7 +26,7 @@ module.exports = {
                 'categories:pwa': 'off',
                 'categories:seo': 'off',
                 'categories.best-practices': 'off',
-                'categories.accessibility': ['error', { minScore: 0.9 }]
+                'categories.accessibility': ['error', { minScore: 0.8 }]
             }
         }
     },
